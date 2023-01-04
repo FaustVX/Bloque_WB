@@ -19,3 +19,7 @@ Then each time you made an advancement, run
 ## Get DataPack
 
 [Latest Release](https://github.com/FaustVX/Bloque_WB/releases/latest)
+
+## Changelog
+### [V1.0 (04/01/2023)](https://github.com/FaustVX/Bloque_WB_MC/releases/tag/v1)
+- initial release
