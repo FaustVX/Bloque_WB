@@ -30,6 +30,7 @@ Then each time you made an advancement, run
 -- or run this to extend multiple times, replace `x` with the correct number (`x` **MUST** be greater or equal to 1) --
 ```
 /trigger bloque_extend set x
+```
 
 ## Changelog
 ### [V2.0 (04/01/2023)](https://github.com/FaustVX/Bloque_WB_MC/releases/tag/v2)
