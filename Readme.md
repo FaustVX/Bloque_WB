@@ -15,7 +15,10 @@ Download `bloqué.zip` and put it in your `.minecraft/saves/<Your Save>/datapack
 
 ## Usage
 
-At the start of the game run, replace `x` with the number of steps you want to extend to a full block (`1`, `2`, `4`, `5`, `8`, `10`)
+At the start of the game run the next command
+
+Replace `x` with the number of steps you want to extend to a full block
+- `x` can be any of `1`, `2`, `4`, `5`, `8`, `10`
 ```
 /trigger bloque_init set x
 ```
