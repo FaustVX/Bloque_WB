@@ -1,5 +1,15 @@
 # Bloqué Worlborder
 
+## Installation
+
+Get the [Latest Release](https://github.com/FaustVX/Bloque_WB/releases/latest)
+- ### In an existing world
+Download `Bloqué.zip` and put it in your `.minecraft/saves/<Your Save>/datapacks`
+
+- ### In a new world
+CLick `Datapack` in the `New World` menu, then drag&drop `Bloqué.zip` inside the `Select Data Packs` menu
+![New World menu](img/datapack.png)
+
 ## Usage
 
 At the start of the game run, replace `x` with the number of steps you want to extend to a full block (`1`, `2`, `4`, `5`, `8`, `10`)
@@ -14,11 +24,6 @@ Then each time you made an advancement, run
 -- or run this to extend multiple times, replace `x` with the correct number (`x` **MUST** be greater or equal to 1) --
 ```
 /trigger bloque_extend set x
-```
-
-## Get DataPack
-
-[Latest Release](https://github.com/FaustVX/Bloque_WB/releases/latest)
 
 ## Changelog
 ### [V2.0 (04/01/2023)](https://github.com/FaustVX/Bloque_WB_MC/releases/tag/v2)
