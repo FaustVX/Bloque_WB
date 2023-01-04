@@ -4,10 +4,13 @@
 
 Get the [Latest Release](https://github.com/FaustVX/Bloque_WB/releases/latest)
 - ### In an existing world
-Download `Bloqué.zip` and put it in your `.minecraft/saves/<Your Save>/datapacks`
+Download `bloqué.zip` and put it in your `.minecraft/saves/<Your Save>/datapacks`
 
 - ### In a new world
-CLick `Datapack` in the `New World` menu, then drag&drop `Bloqué.zip` inside the `Select Data Packs` menu
+    - Click `Datapack` in the `New World` menu
+    - Drag&drop `Bloqué.zip` inside the `Select Data Packs` menu
+    - Activate the `bloqué.zip` pack
+
 ![New World menu](img/datapack.png)
 
 ## Usage
