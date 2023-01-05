@@ -2,14 +2,14 @@
 
 ## Installation
 
-Get the [Latest Release](https://github.com/FaustVX/Bloque_WB/releases/latest)
-- ### In an existing world
+1. Get the [Latest Release](https://github.com/FaustVX/Bloque_WB/releases/latest)
+2. ### In an existing world
 Download `bloqué.zip` and put it in your `.minecraft/saves/<Your Save>/datapacks`
 
-- ### In a new world
-    - Click `Datapack` in the `New World` menu
-    - Drag&drop `Bloqué.zip` inside the `Select Data Packs` menu
-    - Activate the `bloqué.zip` pack
+2. ### In a new world
+- Click `Datapack` in the `New World` menu
+- Drag&drop `Bloqué.zip` inside the `Select Data Packs` menu
+- Activate the `bloqué.zip` pack
 
 ![New World menu](img/datapack.png)
 
