@@ -1,5 +1,7 @@
 # Bloqué Worlborder
 
+[Read in english](Readme.md) | [Lire en français](Readme.fr.md)
+
 ## Installation
 
 1. Get the [Latest Release](https://github.com/FaustVX/Bloque_WB/releases/latest)
