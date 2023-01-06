@@ -34,6 +34,9 @@ Then each time you made an advancement, run
 /trigger bloque_extend set x
 ```
 
+## Bonus
+Use [Cubiome Viewer](https://github.com/Cubitect/cubiomes-viewer) ([DL here](https://github.com/Cubitect/cubiomes-viewer/releases/latest)). All infos [here](https://gist.github.com/FaustVX/a1f0fa20462c57eb98200b36971b939f?permalink_comment_id=4427332#gistcomment-4427332)
+
 ## Changelog
 ### [V2.0 (04/01/2023)](https://github.com/FaustVX/Bloque_WB_MC/releases/tag/v2)
 - Allow for custom steps
